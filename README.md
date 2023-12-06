@@ -1,6 +1,4 @@
-# Machine Learning Projects
-
-## My Data Science explorations:
+# Data Science Projects
 
 * [Binary Classification for Credit Card Fraud Detection](https://github.com/AswinBalamurugan/binary_classification.git)
 * [Regression for House Price Prediction](https://github.com/AswinBalamurugan/regression.git)
