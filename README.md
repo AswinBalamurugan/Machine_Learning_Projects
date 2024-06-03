@@ -8,4 +8,4 @@
 * [Deep Learning for Sales Forcasting](https://github.com/AswinBalamurugan/DL_sales_forcast.git)
 * [PINN for modelling reactions in CSTR](https://github.com/AswinBalamurugan/PINN-CSTR.git)
 * [MNIST Digit prediction API](https://github.com/AswinBalamurugan/MNIST_API.git)
-* [MLOps: End-to-end API and Monitoring](https://github.com/AswinBalamurugan/Iris_API_project.git)
+* [MLOps: End-to-end API and Monitoring](https://github.com/AswinBalamurugan/MLOps_Iris.git)
