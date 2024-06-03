@@ -7,4 +7,4 @@
 * [CNN for Handwritten Letter Recognition](https://github.com/AswinBalamurugan/Handwritten_recognition_CNN.git)
 * [Deep Learning for Sales Forcasting](https://github.com/AswinBalamurugan/DL_sales_forcast.git)
 * [PINN for modelling reactions in CSTR](https://github.com/AswinBalamurugan/PINN-CSTR.git)
-* [Digit Classification API](https://github.com/AswinBalamurugan/MNIST_API.git)
+* [Iris Classification API](https://github.com/AswinBalamurugan/Iris_API_project.git)
