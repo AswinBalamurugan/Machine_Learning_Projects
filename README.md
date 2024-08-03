@@ -9,3 +9,4 @@
 * [PINN for modelling reactions in CSTR](https://github.com/AswinBalamurugan/PINN-CSTR.git)
 * [MNIST Digit prediction API](https://github.com/AswinBalamurugan/MNIST_API.git)
 * [MLOps: End-to-end API and Monitoring](https://github.com/AswinBalamurugan/MLOps_Iris.git)
+* [Local-RAG: A Chatbot with Chroma Database and Llama3 Model](https://github.com/AswinBalamurugan/llama3-local-rag.git)
